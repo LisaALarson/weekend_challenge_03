@@ -1,0 +1,14 @@
+{
+  "person1" :{
+    "name" : "Scott Bromander",
+    "location": "bloomington"
+  },
+  "person2" :{
+    "name" : "Lisa Larson",
+    "location": "blaine"
+  },
+  "person3" :{
+    "name" : "luke dowell",
+    "location": "rosemount"
+  }
+}
