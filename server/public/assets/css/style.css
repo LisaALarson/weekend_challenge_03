@@ -1,0 +1,25 @@
+html{
+    background-color: #996b74;
+}
+.slide{
+     display:none;
+ }
+.current{
+    display: block;
+}
+.header {
+    text-align: center;
+    font-size: 50px;
+    margin: 20px 0;
+    background-color: #8d9996 # ;
+}
+.carousel {
+    background-color: white;
+    margin: 20px auto;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    width: 800px;
+}
+.navigation{
+    text-align: center;
+}

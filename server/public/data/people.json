@@ -1,14 +1,112 @@
 {
-  "person1" :{
-    "name" : "Scott Bromander",
-    "location": "bloomington"
+  "bob" :{
+    "name" : "Bob Fix",
+    "description": "Var enjoyWritingAboutSelf = false;  An inquisitive mind paired with an old soul.  Understanding the 'how' and 'why' of questions and sharing that knowledge with others brings me great joy.  Tactical and strategic, reflecting on past experience and incorporating new knowledge to successfully navigate the way.  Pragmatic, but quietly optimistic, if not idealistic.  Resourceful and persistent, sees tasks through to completion.",
+    "shoutOut": "Bob made an awesome diagram for team Abject Objects during our group presentation that made it easier for the audience to understand and for us to present."
   },
-  "person2" :{
+  "brandon" :{
+    "name" : "Brandon Negen",
+    "description": "Hi! I'm Brandon! I'm a fun loving guy who also appreciates what it feels like after a good, hard day of work. I thrive in environments that value working closely with teammates. I find that working with a small group of people really gives me a sense of trust. Having a sense of trust gives everything I do a little more meaning. When in an atmosphere I can thrive in it also makes being able to relax and have fun far more easier for me. I love playing golf (I'd go everyday if I could!). I'm a huge gamer and I love constantly tweeking my home built PC to get the best possible performance from it. Having pets is always something that's been important to me as well. I have a dog and a cat and their personalities never fail to make me smile. Even though I've neglected it for a long time I'm starting to fill my life with things that lift me up, inspire me, and keep me happy.",
+    "shoutOut": "This is going to sound silly, but I am super appreciative of Brandon killing a spider for me before class started. I have a completely illogical, but very real and occasionally crippling, fear of spiders. When I saw one on the wall, I just calmly asked a group if someone was willing to kill it, and Brandon got up and did so without making me feel like an idiot for having to ask someone to do it. It was probably a small thing for him, but meant a great deal to me!"
+  },
+  "cat" :{
+    "name" : "Cat White",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "cena" :{
+    "name" : "Cena Mayo",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "corina" :{
+    "name" : "Corina Bernstein",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "eric" :{
+    "name" : "Eric Peters",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "huck" :{
+    "name" : "Huck Brock",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "james" :{
+    "name" : "James Coury",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "jim" :{
+    "name" : "Jim Daniels",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "josh" :{
+    "name" : "Josh Kreck",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "lisa" :{
     "name" : "Lisa Larson",
-    "location": "blaine"
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
   },
-  "person3" :{
-    "name" : "luke dowell",
-    "location": "rosemount"
+  "luke" :{
+    "name" : "Luke Dowell",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "maria" :{
+    "name" : "Maria Stommes",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "matt" :{
+    "name" : "Matt Bankston",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "mikel" :{
+    "name" : "Mikel Severson",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "pr" :{
+    "name" : "PR Stafki",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "ryan" :{
+    "name" : "Ryan Brunt",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "sam" :{
+    "name" : "Sam Sunders",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "sarah" :{
+    "name" : "Sarah Doire",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "skyler" :{
+    "name" : "Skyler DeGrote",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "suren" :{
+    "name" : "Suren Vijayakumar",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
+  },
+  "tara" :{
+    "name" : "Tara Newberry",
+    "description": "A visionary thinker and avid dreamer - I probably think about zombie apocalypses too often. I have a never-ending urge to learn and an insatiable appetite for the unknown. As a mother of three toddlers I can multi-task like no other and stay fairly clean…well, acceptably sanitary. I’m an intuitive people-person, I get my energy from those that surround me. I enjoy being a part of a team: listening to others, contributing in a group environment, and keeping the energy positive and up. I love having my voice and thoughts heard, but more so being an ear for others. More than anything, I am a determined and committed person. Invariably driven to succeed. I may take time, but I get $h*t done! ",
+    "shoutOut": "Thanks to Cat for the cupcakes!!!!"
   }
 }
