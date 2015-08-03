@@ -27,6 +27,15 @@ module.exports = function(grunt){
                 ],
                 dest: "server/public/vendors/"
             },
+            bootstrapFonts: {
+                expand: true,
+                cwd: "node_modules/bootstrap/",
+                flatten: true,
+                src: [
+                    'fonts/*'
+                ],
+                dest: 'server/public/vendors/bootstrap/dist/fonts'
+            }
         }
     });
 
